@@ -1,4 +1,3 @@
-name=input('Enter you name')
-
+print('Hello World!!!')
+name=intput('Enter your name')
 print('Hello '+name)
-
