@@ -1,4 +1,3 @@
-print('Hello World!!!')
+name=input('Enter you name')
 
-name=input('Please enter your name')
-print("Hello "+name)
+print('Hello '+name)
